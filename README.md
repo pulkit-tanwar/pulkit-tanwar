@@ -8,13 +8,7 @@
 
 I bring over a decade of hands-on experience in software development, with a strong focus on designing, deploying, and maintaining complex, scalable software solutions. My core expertise includes Golang, Microservices architecture, AWS Cloud, Docker, Kubernetes, and both SQL and NoSQL databases. I have a proven track record of delivering high-quality applications that meet performance, reliability, and scalability requirements.
 
----
-
-## ➤ My Approach to Engineering
-
 At my core, I am a problem solver and technical leader who believes in the power of collaboration and continuous improvement. I lead by example, whether it's writing clean, maintainable code or mentoring team members. My experience as both a developer and technical lead has given me a unique perspective on how to bridge technical excellence with effective team dynamics.
-
----
 
 ## ➤ Highlights
 
@@ -43,24 +37,6 @@ At my core, I am a problem solver and technical leader who believes in the power
 
 ---
 
-## ➤ Technical Expertise
-
-### Cloud & Infrastructure
-- **AWS Services**: Lambda, DynamoDB, SQS, ECS, S3, SNS, EC2, Route53, EKS, RDS, CloudWatch
-- **Containerization**: Docker, Kubernetes
-- **DevOps**: CI/CD, GitLab CI, Jenkins, ArgoCD, SonarQube, SonarLint
-
-### Databases & Caching
-- **Relational**: PostgreSQL, MySQL, RDS
-- **NoSQL**: DynamoDB, Redis
-- **Monitoring**: Kibana, CloudWatch
-
-### Security & Authentication
-- **Authentication**: JWT, OAuth, Okta
-- **Load Balancing**: Nginx
-
----
-
 ## ➤ What Drives Me
 
 I am passionate about building scalable, reliable systems that solve real-world problems. My experience spans from startup environments to enterprise solutions, always with a focus on delivering value through clean code, effective collaboration, and continuous learning.
@@ -70,8 +46,6 @@ When I'm not coding or architecting solutions, you'll find me exploring new tech
 ---
 
 **Let's connect to explore how we can build innovative solutions, lead high-performing teams, and create lasting impact in the technology landscape.**
-
-🔗 **LinkedIn**: [Pulkit Tanwar](https://www.linkedin.com/in/pulkit2/) 
 
 <!--
 **pulkit-tanwar/pulkit-tanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
